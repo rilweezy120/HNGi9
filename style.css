@@ -156,7 +156,7 @@ li{
 
   .more-option{
     right: 80px;
-    position: fixed;
+    position: absolute;
     display: block;
     padding: 3px 4.5px;
     border: 1px solid;
