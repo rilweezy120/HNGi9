@@ -119,3 +119,29 @@ span{
     line-height: 2px;
     opacity: .6;
 }
+
+@media only screen and (max-width: 400px) {
+li{
+    width: 300px;
+}
+
+.socials{
+    margin-top: 20px;
+    padding: 10px 0;
+    margin-bottom: 50px;
+  }
+
+  footer{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .text-zri, .main-txt{
+    margin-bottom: 9px;
+    margin-left: 15px;
+  }
+
+  .I4G{
+    margin-left: 15px;
+  }
+}
